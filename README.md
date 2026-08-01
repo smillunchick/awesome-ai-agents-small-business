@@ -50,6 +50,7 @@ AI systems that answer phone calls, qualify leads, and book appointments.
 - [Goodcall](https://www.goodcall.com/) — AI phone agent for small businesses. Answers calls, takes messages, books appointments.
 - [Smith.ai](https://smith.ai/) — Virtual receptionist service with AI-augmented call handling. Hybrid human + AI approach.
 - [Ruby Receptionist](https://www.ruby.com/) — Live virtual receptionist with AI features. Premium human-first approach.
+- [Workforce Wave](https://www.workforcewave.com/) — AI voice receptionist for small businesses. Answers calls 24/7, books appointments, and captures leads after-hours.
 
 ## Scheduling & Booking
 

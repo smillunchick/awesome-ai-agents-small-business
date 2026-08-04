@@ -33,6 +33,7 @@ Open-source and commercial frameworks for building AI agents.
 - [Semantic Kernel](https://github.com/microsoft/semantic-kernel) — Microsoft's SDK for integrating LLMs into applications. C#, Python, and Java support.
 - [Haystack](https://github.com/deepset-ai/haystack) — End-to-end NLP framework by deepset. Build production-ready LLM applications and agents.
 - [Flowise](https://github.com/FlowiseAI/Flowise) — Drag-and-drop UI for building LLM flows and agents. Low-code approach.
+- [Foundry](https://github.com/harelos/foundry) — A self-hosted, zero-cost alternative to enterprise AI orchestrators. Zero-dependency Node.js control room for running local AI workers and multi-agent teams.
 - [Langflow](https://github.com/langflow-ai/langflow) — Visual framework for building multi-agent applications. Built on top of LangChain.
 - [OpenClaw](https://github.com/open-claw) — Lightweight agent runtime with built-in memory management and tool access. Popular for self-hosted deployments.
 - [Phidata](https://github.com/phidatahq/phidata) — Toolkit for building AI assistants with memory, knowledge, and tools. Production-focused.

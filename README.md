@@ -14,6 +14,7 @@ AI agents are autonomous software that handle business tasks — answering phone
 - [Customer Communication](#customer-communication)
 - [Sales & Outreach Automation](#sales--outreach-automation)
 - [No-Code Agent Builders](#no-code-agent-builders)
+- [Development & QA Agents](#development--qa-agents)
 - [Industry-Specific Solutions](#industry-specific-solutions)
 - [Full-Service Agent Providers](#full-service-agent-providers)
 - [Cost Resources](#cost-resources)
@@ -96,6 +97,12 @@ Build AI automations without writing code.
 - [Relevance AI](https://relevanceai.com/) — Build and deploy AI agents and tools without code. Agent-first approach.
 - [Stack AI](https://www.stack-ai.com/) — No-code platform for building AI applications and agents.
 - [MindStudio](https://www.mindstudio.ai/) — Build AI applications and agents with a visual builder. Deploy to web, Slack, or API.
+
+## Development & QA Agents
+
+AI agents that help small software businesses test and maintain their applications.
+
+- [Agent QA](https://github.com/vostride/agent-qa) — Create and run natural-language web and mobile tests, retain execution memory, and adapt flows when interfaces change.
 
 ## Industry-Specific Solutions
 

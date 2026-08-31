@@ -48,6 +48,7 @@ AI systems that answer phone calls, qualify leads, and book appointments.
 - [Retell AI](https://www.retell.ai/) — Build human-like AI voice agents. Supports custom LLMs and low-latency conversations.
 - [Air AI](https://www.air.ai/) — Autonomous AI agent for phone sales and customer service. Handles full conversations.
 - [Goodcall](https://www.goodcall.com/) — AI phone agent for small businesses. Answers calls, takes messages, books appointments.
+- [Hermes](https://www.buildwithhermes.com/) — White-label voice agent platform for agencies. Deploy agents for client businesses under your own brand, with built-in CRM, call campaigns, and usage billing. From $149/mo, 300 minutes included.
 - [Smith.ai](https://smith.ai/) — Virtual receptionist service with AI-augmented call handling. Hybrid human + AI approach.
 - [Ruby Receptionist](https://www.ruby.com/) — Live virtual receptionist with AI features. Premium human-first approach.
 

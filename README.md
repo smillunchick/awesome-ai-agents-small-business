@@ -72,6 +72,7 @@ Tools for AI-powered customer interaction across channels.
 - [Chatwoot](https://github.com/chatwoot/chatwoot) — Open-source customer engagement platform. Self-hostable with AI integrations.
 - [Botpress](https://github.com/botpress/botpress) — Open-source chatbot builder with AI capabilities. Visual flow editor.
 - [Voiceflow](https://www.voiceflow.com/) — Build AI agents for customer support across chat, voice, and web. No-code builder.
+- [BulkPublish](https://github.com/azeemkafridi/bulkpublish-api) — API and reusable AI-agent skills for planning, adapting, reviewing, scheduling, and publishing social media content across channels.
 
 ## Sales & Outreach Automation
 

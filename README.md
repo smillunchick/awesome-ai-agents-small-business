@@ -42,15 +42,15 @@ Open-source and commercial frameworks for building AI agents.
 
 AI systems that answer phone calls, qualify leads, and book appointments.
 
+- [Air AI](https://www.air.ai/) — Autonomous AI agent for phone sales and customer service. Handles full conversations.
 - [Bland.ai](https://www.bland.ai/) — AI phone agent platform. Build agents that make and receive calls with natural-sounding voices. Per-minute pricing.
+- [Goodcall](https://www.goodcall.com/) — AI phone agent for small businesses. Answers calls, takes messages, books appointments.
+- [Kalyvox](https://kalyvox.ai/en/ai-answering-service) — AI receptionist for small businesses that answers inbound calls 24/7, qualifies callers, books appointments, and routes or transfers calls.
+- [Retell AI](https://www.retell.ai/) — Build human-like AI voice agents. Supports custom LLMs and low-latency conversations.
+- [Ruby Receptionist](https://www.ruby.com/) — Live virtual receptionist with AI features. Premium human-first approach.
+- [Smith.ai](https://smith.ai/) — Virtual receptionist service with AI-augmented call handling. Hybrid human + AI approach.
 - [Synthflow](https://synthflow.ai/) — No-code AI voice agent builder. Handles inbound/outbound calls with calendar integration.
 - [Vapi](https://vapi.ai/) — Developer platform for building voice AI agents. API-first approach with real-time conversation.
-- [Retell AI](https://www.retell.ai/) — Build human-like AI voice agents. Supports custom LLMs and low-latency conversations.
-- [Air AI](https://www.air.ai/) — Autonomous AI agent for phone sales and customer service. Handles full conversations.
-- [Goodcall](https://www.goodcall.com/) — AI phone agent for small businesses. Answers calls, takes messages, books appointments.
-- [Smith.ai](https://smith.ai/) — Virtual receptionist service with AI-augmented call handling. Hybrid human + AI approach.
-- [Ruby Receptionist](https://www.ruby.com/) — Live virtual receptionist with AI features. Premium human-first approach.
-
 ## Scheduling & Booking
 
 AI-powered scheduling and appointment management.

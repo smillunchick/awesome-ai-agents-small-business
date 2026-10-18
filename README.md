@@ -150,6 +150,7 @@ Guides, tutorials, and courses for understanding and implementing AI agents.
 - [Building Effective Agents](https://www.anthropic.com/research/building-effective-agents) — Anthropic's guide to building reliable AI agents. Covers patterns and best practices.
 - [LangChain Agent Documentation](https://python.langchain.com/docs/concepts/agents/) — Technical documentation for building agents with LangChain.
 - [Microsoft AutoGen Getting Started](https://microsoft.github.io/autogen/) — Tutorial for building multi-agent systems with AutoGen.
+- [What Should My Bot Do](https://whatshouldmybotdo.com/guides/what-should-my-ai-agent-do-first) — Free guide and planner for picking the first jobs to hand an AI agent, with what to keep human and setup steps by trade.
 
 ### Courses
 
